@@ -14,6 +14,7 @@ public class VueapiApplication {
     public static void main(String[] args) {
         SpringApplication.run(VueapiApplication.class, args);
         System.out.print("test");
+        System.out.println("dev");
     }
 
 }
