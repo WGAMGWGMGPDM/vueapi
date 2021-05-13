@@ -16,6 +16,7 @@ public class VueapiApplication {
         System.out.print("test");
         System.out.println("dev");
         System.out.println("master-test");
+        System.out.println("origin-test");
     }
 
 }
